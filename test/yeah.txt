@@ -1,0 +1,43 @@
+
+> test@1.0.0 build
+> tsc && node dist/index.js
+
+node_modules/@types/stream-json/streamers/StreamValues.d.ts(25,62): error TS2709: Cannot use namespace 'Chain' as a type.
+node_modules/stream-chain/src/defs.d.ts(55,30): error TS1254: A 'const' initializer in an ambient context must be a string or numeric literal or literal enum reference.
+node_modules/stream-chain/src/defs.d.ts(172,42): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(174,42): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(180,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(188,59): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(189,43): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(190,59): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(191,43): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(192,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(192,67): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(193,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(193,61): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(194,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(194,67): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(195,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(195,61): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(204,62): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(205,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(206,62): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(207,46): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(208,49): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(208,70): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(209,49): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(209,64): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(210,49): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(210,70): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(211,49): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(211,64): error TS1354: 'readonly' type modifier is only permitted on array and tuple literal types.
+node_modules/stream-chain/src/defs.d.ts(239,34): error TS2552: Cannot find name 'function'. Did you mean 'Function'?
+node_modules/stream-chain/src/gen.d.ts(3,1): error TS2309: An export assignment cannot be used in a module with other exported elements.
+node_modules/stream-chain/src/index.d.ts(38,1): error TS2309: An export assignment cannot be used in a module with other exported elements.
+node_modules/stream-chain/src/index.d.ts(241,3): error TS1014: A rest parameter must be last in a parameter list.
+node_modules/stream-chain/src/typed-streams.d.ts(9,22): error TS1183: An implementation cannot be declared in ambient contexts.
+node_modules/stream-chain/src/typed-streams.d.ts(12,22): error TS1183: An implementation cannot be declared in ambient contexts.
+node_modules/stream-chain/src/typed-streams.d.ts(21,22): error TS1183: An implementation cannot be declared in ambient contexts.
+node_modules/stream-chain/src/typed-streams.d.ts(30,22): error TS1183: An implementation cannot be declared in ambient contexts.
+node_modules/stream-chain/src/typed-streams.d.ts(33,22): error TS1183: An implementation cannot be declared in ambient contexts.
+node_modules/stream-chain/src/typed-streams.d.ts(42,22): error TS1183: An implementation cannot be declared in ambient contexts.

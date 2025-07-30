@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && node dist/index.js",
+    "views": "tsc && node dist/views.js",
+    "sub_listen": "tsc && node dist/sub_listen.js",
+    "sub_send": "tsc && node dist/sub_send.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.13.10",
+    "triggerware": "file:../triggerware",
+    "typescript": "^5.8.2"
+  }
+}

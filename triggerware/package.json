@@ -1,0 +1,30 @@
+{
+  "name": "triggerware",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/index.mjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.mts"
+    },
+    "./json_structs": {
+      "import": "./dist/json_structs/index.mjs",
+      "types": "./dist/json_structs/index.d.mts"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@types/node": "^22.13.4",
+    "jsonrpc": "file:../jsonrpc"
+  }
+}

@@ -1,0 +1,102 @@
+
+> test@1.0.0 build
+> tsc && node dist/index.js
+
+--- REL DATA ---
+0: Round a real number to an integer
+1: Check if a number is between two other numbers
+2: Arithmetic division operator
+3: Arithmetic multiplication operator
+4: Arithmetic plus operator
+5: Less than or equal Comparison operator
+6: Greater than or equal Comparison operator
+7: Less than Comparison operator
+8: Greater than Comparison operator
+9: Equality Comparison of numbers
+10: Retrieve details for California business matching unique id
+11: Search California business registry for matches
+12: Return the locations for a trial
+13: Return the officials for the trial
+14: Return if the trial participant is to be healthy or not
+15: Return the eligibility sex / gender for a trial
+16: Return the inclusion for a trial
+17: Return the exclusion for a trial
+18: Return the eligibility criteria for a trial as a string
+19: Return the eligibility criteria for a trial as json
+20: Return the status for a trial
+21: Return the title for a trial
+22: Return the NCTID for a trial
+23: Search table for new ct.gov API
+24: Search table for general ct.gov
+25: 
+26: List of philsophers who are Twitter targets!
+27: FDA data - why drug was prescribe
+28: FDA data - demographics for an event
+29: FDA data - drug data for an event
+30: FDA data - outcome of an event
+31: FDA data - reaction to a drug
+32: FDA OCCP code
+33: FDA ag code
+34: FDA outcome code
+35: Currency conversion computation
+36: 
+37: Inflation calculation for the US dollar
+38: 
+39: 
+40: 
+41: Search table for general ct.gov
+42: Look up drugs.com for drug symptom
+43: Medical literature search at pubmed
+44: Eumerate brand names corresponding to named generic drug
+45: Search for generic drug name for a branded drug
+46: YELP.com directory of vendors
+47: YP.com directory of vendors
+48: Mapping URL from Google
+49: Compute distance between 2 points
+50: Provides geo coding from address to lat/long and vice versa
+51: Textual properties of Maude report
+52: Maude Patient Data table
+53: Maude Device Basic Data table
+54: Medical Device Report data 
+55: Search for important indicators
+56: MetaData for a particular indicator
+57: Data for a particular indicator
+58: Data for oil and gas influencers
+59: 
+60: Surge at a given PSAP system as a whole
+61: 
+62: Resolution of an earlier Procurement request
+63: Table of Procurement requests at a PSAP
+64: Enumerated ways to resolve a Procurement request
+65: Enumerated types of Procurement requests
+66: List customers of a company by symbol
+67: List competitors of a company by symbol
+68: 
+69: SEC filings for a company by its symbol
+70: List of company symbols in different markets
+71: Use EDEN API to get sentiment scores from engines like Google, Amazon, and others
+72: 
+73: 
+74: 
+75: Twitter search by sender of the tweet
+76: Twitter search by keyword or topic
+77: Case sensitive string equality
+78: Case sensitive substring check
+79: Case insensitive substring check
+80: 
+81: Case insensitive string equality
+82: 
+83: 
+84: 
+85: 
+86: Concatenate strings with space in between
+87: Convert a universal time to a printable string
+88: 
+89: 
+90: 
+91: 
+92: 
+93: Time as measured in seconds since some past date
+94: Search for world bank projects matching keywords
+95: Get data for a given indicator and country
+96: Get indicators corresponding to various metrics
